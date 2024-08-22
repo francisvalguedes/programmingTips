@@ -1,4 +1,7 @@
 # programmingTips
+
+montar de volta dado float enviado pela serial big edian / little edian fazer inversão
+
 ~~~
 /******************************************************************************
 Converter dado bytes recebidos pela serial de volta para float
